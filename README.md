@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to be DevOps**
 
-- 🔭 I’m looking to collaborate on **Devops and DataScience**
+- 🔭 I’m looking to collaborate on **Devops and Data Science**
 
 - 💬 Ask me about **Python, Django, React, Js, Mysql**
 
